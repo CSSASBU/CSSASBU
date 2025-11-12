@@ -1,21 +1,12 @@
-# Pardazeh Magazine
-The official magazine of computer science scientific association of the shahid beheshti university
+# Computer Science Scientific Association of SBU
+The official organization of computer science scientific association of the shahid beheshti university
 
 <br>
 
-<!-- <p style="display: block; margin: auto;"><img src="assets\pictures\Logo-outlined-01.png" height = 300 style=""></p> -->
-<p style="text-align: center ">
-<!-- <div > -->
-<img src="assets\pictures\Logo-outlined-01.png" height = 300>
-<!-- </div> -->
-</p>
-<!-- ![Pardazeh Magazine](assets\pictures\Logo-outlined-01.png) -->
-
 <br>
 
-## Stay tuned
-. [Telegram](https://t.me/SBU_CS_Mag)
-
-<!-- . [![Caption]()](https://t.me/SBU_CS_Mag) -->
-
-. [LinkedIn](https://linkedin.com/in/SBU_CS_Magazine)
+## Follow us
+[![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg)](https://t.me/CSSASBU)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/CSSASBU)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/CSSASBU)
+[![Youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://www.youtube.com/@CSSASBU)
