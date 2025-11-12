@@ -1,5 +1,5 @@
 # Computer Science Scientific Association of SBU
-The official organization of computer science scientific association of the shahid beheshti university
+The official organization of computer science scientific association of Shahid Beheshti University
 
 <br>
 
